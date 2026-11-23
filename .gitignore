@@ -1,0 +1,10 @@
+# Python 虛擬環境
+.venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+*.pyc
+# 匯出結果
+OutlookExport_輸出/
